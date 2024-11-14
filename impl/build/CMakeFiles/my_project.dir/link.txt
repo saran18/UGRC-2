@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_project.dir/src/jarvis_parallel.cpp.o CMakeFiles/my_project.dir/src/Point.cpp.o -o my_project  -Wl,-rpath,/opt/rocm-6.0.2/lib /opt/rocm-6.0.2/lib/libamdhip64.so.6.0.60002 --hip-link 

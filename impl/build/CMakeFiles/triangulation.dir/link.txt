@@ -1,0 +1,1 @@
+/opt/rocm-6.0.2/bin/hipcc CMakeFiles/triangulation.dir/src/triangulation.cpp.o -o triangulation 

@@ -1,0 +1,1 @@
+/opt/rocm-6.0.2/bin/hipcc CMakeFiles/hull_merge.dir/src/hull_merge.cpp.o -o hull_merge 

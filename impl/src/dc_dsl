@@ -1,0 +1,5 @@
+function grahamScan(int n, int k, container<double> xCoord, container<double> yCoord){
+    int group_size = (n + k - 1) / k;
+    
+
+}

@@ -1,0 +1,1 @@
+/opt/rocm-6.0.2/bin/hipcc CMakeFiles/sample_seq.dir/src/sample_seq.cpp.o -o sample_seq 

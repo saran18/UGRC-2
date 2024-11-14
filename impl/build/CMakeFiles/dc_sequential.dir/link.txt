@@ -1,0 +1,1 @@
+/opt/rocm-6.0.2/bin/hipcc CMakeFiles/dc_sequential.dir/src/dc_sequential.cpp.o CMakeFiles/dc_sequential.dir/src/Point.cpp.o -o dc_sequential 
